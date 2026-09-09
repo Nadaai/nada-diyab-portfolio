@@ -1,16 +1,16 @@
-import React, {useContext} from "react";
-import {Fade} from "react-reveal";
+import { useContext } from "react";
 import emoji from "react-easy-emoji";
-import "./Greeting.scss";
-import landingPerson from "../../assets/lottie/landingPerson";
+import { Fade } from "react-reveal";
+import girlAnimation from "../../assets/lottie/Girl.json";
+import Button from "../../components/button/Button";
 import DisplayLottie from "../../components/displayLottie/DisplayLottie";
 import SocialMedia from "../../components/socialMedia/SocialMedia";
-import Button from "../../components/button/Button";
-import {illustration, greeting} from "../../portfolio";
 import StyleContext from "../../contexts/StyleContext";
+import { greeting, illustration } from "../../portfolio";
+import "./Greeting.scss";
 
 export default function Greeting() {
-  const {isDark} = useContext(StyleContext);
+  const { isDark } = useContext(StyleContext);
   if (!greeting.displayGreeting) {
     return null;
   }
@@ -25,7 +25,7 @@ export default function Greeting() {
               >
                 {" "}
                 {greeting.title}{" "}
-                <span className="wave-emoji">{emoji("👋")}</span>
+                <span className="wave-emoji">{emoji("🌸")}</span>
               </h1>
               <p
                 className={
@@ -42,8 +42,8 @@ export default function Greeting() {
                 <Button text="Contact me" href="#contact" />
                 {greeting.resumeLink && (
                   <a
-                    href={require("./resume.pdf")}
-                    download="Resume.pdf"
+                    href={greeting.resumeLink}
+                    download="resume.pdf"
                     className="download-link-button"
                   >
                     <Button text="Download my resume" />
@@ -54,7 +54,7 @@ export default function Greeting() {
           </div>
           <div className="greeting-image-div">
             {illustration.animated ? (
-              <DisplayLottie animationData={landingPerson} />
+              <DisplayLottie animationData={girlAnimation} />
             ) : (
               <img
                 alt="man sitting on table"
