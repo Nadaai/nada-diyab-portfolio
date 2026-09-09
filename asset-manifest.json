@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/nada-diyab-portfolio/static/css/main.560bcafb.css",
+    "main.js": "/nada-diyab-portfolio/static/js/main.6c81f447.js",
+    "static/css/769.b3cbb36b.chunk.css": "/nada-diyab-portfolio/static/css/769.b3cbb36b.chunk.css",
+    "static/js/769.204c65d9.chunk.js": "/nada-diyab-portfolio/static/js/769.204c65d9.chunk.js",
+    "static/css/64.086e0f0f.chunk.css": "/nada-diyab-portfolio/static/css/64.086e0f0f.chunk.css",
+    "static/js/64.56dc6704.chunk.js": "/nada-diyab-portfolio/static/js/64.56dc6704.chunk.js",
+    "static/media/emu-logo.png": "/nada-diyab-portfolio/static/media/emu-logo.ae13fd331561511e2325.png",
+    "static/media/Montserrat-Regular.ttf": "/nada-diyab-portfolio/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/ux-cert.jpeg": "/nada-diyab-portfolio/static/media/ux-cert.9e41329578c6bffd819b.jpeg",
+    "static/media/award.jpeg": "/nada-diyab-portfolio/static/media/award.970d067c4420b2f57c53.jpeg",
+    "static/media/AI-CERTIFICATE.jpeg": "/nada-diyab-portfolio/static/media/AI-CERTIFICATE.e99cdb3fe586d7a27161.jpeg",
+    "static/media/hero-img.jpg": "/nada-diyab-portfolio/static/media/hero-img.a2aeef3612f8ba35ccbf.jpg",
+    "static/media/resume.pdf": "/nada-diyab-portfolio/static/media/resume.c1da5c989ebf0db77ad6.pdf",
+    "static/media/Google-Logo-.png": "/nada-diyab-portfolio/static/media/Google-Logo-.6d682cd9f2763a56c156.png",
+    "static/media/Agustina.woff": "/nada-diyab-portfolio/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/manOnTable.svg": "/nada-diyab-portfolio/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
+    "static/media/contactMailDark.svg": "/nada-diyab-portfolio/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/developerActivity.svg": "/nada-diyab-portfolio/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
+    "static/media/uhelsinki-unu-logo.png": "/nada-diyab-portfolio/static/media/uhelsinki-unu-logo.88efb8f2e92625e96dcc.png",
+    "static/media/TLS-logo.jpeg": "/nada-diyab-portfolio/static/media/TLS-logo.af064b292d2a658930ba.jpeg",
+    "static/media/Almadar-logo.png": "/nada-diyab-portfolio/static/media/Almadar-logo.cf1cc6edf286de990398.png",
+    "static/media/skill.svg": "/nada-diyab-portfolio/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
+    "index.html": "/nada-diyab-portfolio/index.html",
+    "static/media/talksCardBack.svg": "/nada-diyab-portfolio/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
+    "main.560bcafb.css.map": "/nada-diyab-portfolio/static/css/main.560bcafb.css.map",
+    "main.6c81f447.js.map": "/nada-diyab-portfolio/static/js/main.6c81f447.js.map",
+    "769.b3cbb36b.chunk.css.map": "/nada-diyab-portfolio/static/css/769.b3cbb36b.chunk.css.map",
+    "769.204c65d9.chunk.js.map": "/nada-diyab-portfolio/static/js/769.204c65d9.chunk.js.map",
+    "64.086e0f0f.chunk.css.map": "/nada-diyab-portfolio/static/css/64.086e0f0f.chunk.css.map",
+    "64.56dc6704.chunk.js.map": "/nada-diyab-portfolio/static/js/64.56dc6704.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.560bcafb.css",
+    "static/js/main.6c81f447.js"
+  ]
+}
