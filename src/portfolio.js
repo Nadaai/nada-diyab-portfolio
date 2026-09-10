@@ -24,7 +24,7 @@ const greeting = {
   username: "Nada Diyab",
   title: "Hello, It's me Nada",
   subTitle: emoji(
-    "A passionate Software Engineer 💻 having an experience of building Web applications with HTML / CSS/ JavaScript / Reactjs."
+    "A passionate Software Engineer...having an experience of building Web applications with HTML / CSS/ JavaScript / Reactjs."
   ),
   resumeLink:
     resume, // Set to empty to hide the button
@@ -53,9 +53,9 @@ const skillsSection = {
   subTitle: "SOFTWARE ENGINEER WHO BELIEVES IN TURNING CREATIVE IDEAS INTO SMART & IMAPCTFUL APPLICATIONS",
   skills: [
     emoji(
-      "⚡ Develop highly interactive Front end / User Interfaces for your web applications"
+      "🌸 Develop highly interactive Front end / User Interfaces for your web applications"
     ),
-    emoji("⚡ Design interfaces that are not only visually engaging but also easy to navigate and enjoyable to use"),
+    emoji("🌸 Design interfaces that are not only visually engaging but also easy to navigate and enjoyable to use"),
 
 
   ],
