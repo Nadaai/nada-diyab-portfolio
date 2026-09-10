@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/nada-diyab-portfolio/static/css/main.560bcafb.css",
-    "main.js": "/nada-diyab-portfolio/static/js/main.6c81f447.js",
+    "main.css": "/nada-diyab-portfolio/static/css/main.d9e1ba0a.css",
+    "main.js": "/nada-diyab-portfolio/static/js/main.8b5053ee.js",
     "static/css/769.b3cbb36b.chunk.css": "/nada-diyab-portfolio/static/css/769.b3cbb36b.chunk.css",
     "static/js/769.204c65d9.chunk.js": "/nada-diyab-portfolio/static/js/769.204c65d9.chunk.js",
     "static/css/64.086e0f0f.chunk.css": "/nada-diyab-portfolio/static/css/64.086e0f0f.chunk.css",
@@ -24,15 +24,15 @@
     "static/media/skill.svg": "/nada-diyab-portfolio/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
     "index.html": "/nada-diyab-portfolio/index.html",
     "static/media/talksCardBack.svg": "/nada-diyab-portfolio/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
-    "main.560bcafb.css.map": "/nada-diyab-portfolio/static/css/main.560bcafb.css.map",
-    "main.6c81f447.js.map": "/nada-diyab-portfolio/static/js/main.6c81f447.js.map",
+    "main.d9e1ba0a.css.map": "/nada-diyab-portfolio/static/css/main.d9e1ba0a.css.map",
+    "main.8b5053ee.js.map": "/nada-diyab-portfolio/static/js/main.8b5053ee.js.map",
     "769.b3cbb36b.chunk.css.map": "/nada-diyab-portfolio/static/css/769.b3cbb36b.chunk.css.map",
     "769.204c65d9.chunk.js.map": "/nada-diyab-portfolio/static/js/769.204c65d9.chunk.js.map",
     "64.086e0f0f.chunk.css.map": "/nada-diyab-portfolio/static/css/64.086e0f0f.chunk.css.map",
     "64.56dc6704.chunk.js.map": "/nada-diyab-portfolio/static/js/64.56dc6704.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.560bcafb.css",
-    "static/js/main.6c81f447.js"
+    "static/css/main.d9e1ba0a.css",
+    "static/js/main.8b5053ee.js"
   ]
 }
